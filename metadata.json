@@ -1,0 +1,6 @@
+{
+  "name": "Health Tracking & Analytics System",
+  "description": "نظام شامل لتتبع وتحليل المؤشرات الصحية للمرضى والعيادات، يشمل تحليلات ذكية ومتابعة طبية مباشرة ونظم تنبيهات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
